@@ -1,5 +1,5 @@
 <html>
-<?php echo 'Number of Visitors Before You: ';?>
+<?php echo 'Number of Visitors: ';?>
 <head>
    <title>CIS 191: Project 3</title>
    </head>
