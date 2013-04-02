@@ -10,7 +10,7 @@
     print_r($output[0]);
     echo " <br><br>"?>
 <?php exec("python changeNumber.py"); ?>
-<?php echo 'Dates and Times People Have Visited Before You: ';?>
+<?php echo 'Dates and Times People Have Visited: ';?>
 <?php $output = null;
     exec("python times.py", $output, $return);
     echo " <br><br>";
