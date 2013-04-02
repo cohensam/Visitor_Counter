@@ -1,6 +1,7 @@
 README
+
 readNumber.py
-Prints out the number in the file "visitors.txt" which should reflect the number of previous visitors to the site.
+Prints out the number in the file "visitors.txt" which should reflect the number of visitors to the site.
 
 changeNumber.py
 Increments the file "visitors.txt" every time someone goes to the website so that the one number within it reflects the 
@@ -11,6 +12,6 @@ Takes the current date and time and appends it to a file called "visited.txt", t
 people have visited the site.
 
 index.php
-Calls the above script so that when someone goes to my website the number of people that viewed the website before them 
-will be labeled and visible, and the dates and times that people previously viewed the website will also be labeled and 
-visible.
+Calls the above script so that when someone goes to my website the number of people that have viewed the website, 
+including the current site visitor, will be labeled and visible, and the corresponding dates and times that people have 
+viewed the website will also be labeled and visible.
